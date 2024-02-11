@@ -10,5 +10,5 @@ UC do 3º Ano de Engenharia Informática na Universidade do Minho
 
 **Email:** a95349@alunos.uminho.pt
 
-* 1. TPCs
-* 2. Trabalho
+*  TPCs
+*  Trabalho
