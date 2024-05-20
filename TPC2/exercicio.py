@@ -33,13 +33,13 @@ def parse_md():
 
 
 html = """
-            <!DOCTYPE html>
-            <html>
-        """
+<!DOCTYPE html>
+<html>
+"""
 html += parse_md()
 html += """
-            </html>
-        """
+</html>
+"""
 
 
 with(open("index.html", "w")) as file:
